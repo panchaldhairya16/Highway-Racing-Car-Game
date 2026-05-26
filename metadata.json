@@ -1,0 +1,6 @@
+{
+  "name": "Car Game",
+  "description": "An action-packed 2D arcade car driving and overtaking game with customizable controls, multiple vehicles, retro synthesizers, and real-time score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
